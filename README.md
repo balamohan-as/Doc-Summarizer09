@@ -1,6 +1,6 @@
 📄 SmartDoc Summarizer
 <p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/1280x320/2d3748/e2e8f0%3Ftext%3DSmartDoc%2520Summarizer%26font%3Draleway" alt="SmartDoc Summarizer Banner">
+<img src="https://www.google.com/imgres?q=document%20summarizer&imgurl=https%3A%2F%2Fapi.wandb.ai%2Ffiles%2Fmostafaibrahim17%2Fimages%2Fprojects%2F37042936%2Fb9bf06f6.png&imgrefurl=https%3A%2F%2Fwandb.ai%2Fmostafaibrahim17%2Fml-articles%2Freports%2FCompressing-the-Story-The-Magic-of-Text-Summarization--VmlldzozNTYxMjc2&docid=j3cp4TuJCzuXJM&tbnid=0xeYjecZYZDMEM&vet=12ahUKEwjkyMODiNCPAxUDT2wGHVsFDbUQM3oECBoQAA..i&w=532&h=249&hcb=2&ved=2ahUKEwjkyMODiNCPAxUDT2wGHVsFDbUQM3oECBoQAA" alt="SmartDoc Summarizer Banner">
 </p>
 
 SmartDoc Summarizer is an intelligent web application that provides concise summaries of uploaded documents. Built with Python, Streamlit, and Hugging Face Transformers, it allows users to register, log in, and process .pdf, .docx, and .txt files. All generated summaries are securely stored in a Google Firestore database, allowing users to access their history at any time.

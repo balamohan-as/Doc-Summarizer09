@@ -1,7 +1,8 @@
-**📄 SmartDoc Summarizer**
+<centre>
 <img width="532" height="249" alt="image" src="https://github.com/user-attachments/assets/fe7d68f8-88f6-41ba-829f-8138e38d5dfa" />
+</centre>
 
-
+**📄 SmartDoc Summarizer**
 SmartDoc Summarizer is an intelligent web application that provides concise summaries of uploaded documents. Built with Python, Streamlit, and Hugging Face Transformers, it allows users to register, log in, and process .pdf, .docx, and .txt files. All generated summaries are securely stored in a Google Firestore database, allowing users to access their history at any time.
 
 🔧 Core Features
